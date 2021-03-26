@@ -1,0 +1,7 @@
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\bin\Debug\FonaNama.exe
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\bin\Debug\FonaNama.pdb
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\obj\x86\Debug\FonaNama.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\obj\x86\Debug\FonaNama.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\obj\x86\Debug\FonaNama.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\obj\x86\Debug\FonaNama.exe
+C:\Users\user\documents\visual studio 2010\Projects\FonaNama\FonaNama\obj\x86\Debug\FonaNama.pdb
